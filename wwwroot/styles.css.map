@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.scss"],
+  "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\n\n.hand-icon {\n  cursor: pointer;\n}\n"],
+  "mappings": ";AAEA,CAAA;AACE,UAAA;;",
+  "names": []
+}
